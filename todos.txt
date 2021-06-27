@@ -3,7 +3,5 @@ learn golang
 practise exercise
 make coffee
 check email
-add todos
-submit
-welcome
-todosApp
+
+

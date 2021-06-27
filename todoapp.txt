@@ -1,0 +1,4 @@
+สร้าง side todo app เน้นใช้ http package และก็ใช้ handler func มาใช้พวก redirect แล้วก็มารู้วิธีการโพสต์ข้อมูล
+ไปในฟอร์ม พอ submit ข้อมูลจะถูกเก็บไว้ในไฟล์ txt ก่อน จะยังไม่เก็บใน database พอเรา refresh vsc ก็จะอัปเดตข้อมูลให้เรา และถ้าเราแก้ไขอะไรใน vsc พอ refresh  หน้า localhost ก็จะอัปเดตไปด้วย
+จะใช้ boostrab ในการสร้าง app ตัวนี้ แล้ว custom  css ด้วย 
+จะให้เรารู้การ serve file server เพื่อ host css ของเราได้ด้วย
